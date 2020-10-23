@@ -1,7 +1,3 @@
-
-# 봉순#6959 : MASS DM BOT SOURCE
-
-
 import discord
 import asyncio
 import datetime
